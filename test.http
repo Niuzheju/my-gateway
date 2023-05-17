@@ -1,0 +1,4 @@
+GET http://localhost:2000/my-consul-client-a
+
+###
+GET http://localhost:2000/my-consul-client/home2
